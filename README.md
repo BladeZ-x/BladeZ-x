@@ -1,4 +1,4 @@
-Hi there, I'm [BladeZ]. 👋
+Hi there, I'm BladeZ. 👋
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Student+Developer;Aspiring+Software+Engineer;Open+Source+Learner;Building+Cool+Things+Every+Day" alt="Typing SVG" /> </div>
 🚀 About Me
 
