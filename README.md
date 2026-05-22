@@ -4,9 +4,9 @@ Hi there, I'm [Your Name] 👋
 
 🎓 Student passionate about technology and innovation
 💻 Exploring Web Development, AI, and Open Source
-🌱 Currently learning: React • Node.js • Python
+🌱 Currently learning: Python
 ⚡ Fun fact: I debug faster after coffee ☕
-🎯 Goal: To build impactful and scalable applications
+🎯 Goal: To make lives simpler
 
 🛠️ Tech Stack
 💻 Languages
