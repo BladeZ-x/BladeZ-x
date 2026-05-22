@@ -5,10 +5,10 @@
 ## 🚀 About Me
 
 - 🎓 Student passionate about technology and innovation  
-- 💻 Exploring **Web Development**, **AI**, and **Open Source**.  
-- 🌱 Currently learning: Python.
-- ⚡ Fun fact: I debug faster after coffee ☕ .
-- 🎯 Goal: To make lives simpler than ever.
+- 💻 Exploring **Web Development**, **AI**, and **Open Source**
+- 🌱 Currently learning: Python
+- ⚡ Fun fact: I debug faster after coffee ☕ 
+- 🎯 Goal: To make lives simpler than ever
 
 ---
 
