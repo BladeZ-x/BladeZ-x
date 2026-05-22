@@ -7,3 +7,7 @@ Hi there, I'm BladeZ. 👋
 🌱 Currently learning: Python
 ⚡ Fun fact: I debug faster after coffee ☕
 🎯 Goal: To make lives simpler
+<div align="center">
+Thanks for visiting my profile ❤️
+
+</div>
