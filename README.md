@@ -12,10 +12,7 @@
 
 - 🎓 Student passionate about technology and innovation  
 - 💻 Exploring **Web Development**, **AI**, and **Open Source**  
-- 🌱 Currently learning:
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>  
+- 🌱 Currently learning: <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="35"/> </p>  
 - ⚡ Fun fact: I debug faster after coffee ☕  
 - 🎯 Goal: To build impactful and scalable applications  
 
