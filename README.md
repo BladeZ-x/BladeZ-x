@@ -47,12 +47,12 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/xbladez_2311/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/YOUR_HANDLE">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://www.youtube.com/@xBladeZ_11">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
